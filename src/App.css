@@ -15,6 +15,7 @@
   box-sizing: border-box;
   color: black;
   text-transform: uppercase;
+  text-decoration: none;
   cursor: pointer;
   display: inline-block;
   font-size: 14px;
